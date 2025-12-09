@@ -1,133 +1,52 @@
-🏨 Hostel Management System (HMS)
-Semester Project — Software Construction & Development (SCD)
+📘 Hostel Management System (HMS)
 
-Developed by: Imtiaz Ali (FL23837)
+A semester project developed for Software Construction & Development (SCD) following professional development practices including UML diagrams, TDD (Test-Driven Development), project documentation, and modular implementation.
 
 📌 Project Overview
 
-The Hostel Management System (HMS) is designed to automate and digitalize hostel operations such as student registration, room allocation, mess management, complaints, inspections, attendance, and reporting.
-It improves efficiency, reduces manual errors, and provides a centralized solution for hostel administration.
+The Hostel Management System (HMS) is designed to simplify and digitalize the management of hostel operations including:
 
-This repository contains:
-✔ Complete SCD project report (PDF)
-✔ UML diagrams (Use Case, Object, Communication, Timing)
-✔ TDD Test Cases (RED → GREEN → REFACTOR)
-✔ Clean & Refactored Java implementation for modules
-✔ Student Fee Module Test Table
-✔ System functional + non-functional requirements
+Student registration
 
-🎯 Objectives of HMS
+Room allocation
 
-Automate all major hostel activities
+Fee management
 
-Provide a centralized digital system for Admin, Students, Staff, and CEO
+Complaints & service requests
 
-Improve transparency and accuracy of records
+Admin dashboard
 
-Enable automated notifications and reminders
+Attendance & record system
 
-Streamline room allocation, fee management, and inspections
+This project demonstrates structured software development, modular design, and documentation according to academic and industry standards.
 
-👥 Actors
+🗂️ Project Contents
 
-Admin
+This repository includes:
 
-Student
+✔ Complete Project Report (PDF)
+✔ UML Diagrams
 
-Staff
+Use Case Diagram
 
-CEO
+Class Diagram
 
-System (Automatic Notifications)
+Activity Diagram
 
-🧩 System-Level Functional Requirements
+Sequence Diagrams
 
-Automatic notification for late fee submission
+Deployment Diagram
 
-Monthly inspection alerts
+✔ TDD Test Cases
+✔ System Design & Architecture
+✔ Module-by-module Implementation
+✔ Source Code Folder (To be added)
+✔ Future Enhancements Section
 
-Inventory shortage alerts
 
-Hostel security monitoring
+👤 Author
 
-Meal notifications (Breakfast, Lunch, Dinner)
-
-🧑‍💼 Admin Functional Requirements
-
-Register students
-
-Allocate rooms
-
-Update payments
-
-Manage hostel inspections
-
-Review complaints
-
-Manage mess items
-
-View inventory & seat availability
-
-Send monthly reports
-
-🧑‍🎓 Student Functional Requirements
-
-Register profile
-
-Upload fee challan
-
-Cancel seat
-
-Submit complaint
-
-Request room change
-
-Mark attendance
-
-Submit feedback
-
-👨‍🍳 Staff Functional Requirements
-
-Request food items
-
-Update food status
-
-Send meal notifications
-
-🧑‍💼 CEO Functional Requirements
-
-View monthly reports
-
-Review complaint summaries
-
-Approve payment for hostel stock
-
-🖼️ UML Diagrams Included
-
-✔ Use Case Diagram
-
-✔ Object Diagram
-
-✔ Communication Diagram
-
-✔ Timing Diagram
-
-🧪 TDD (Test Driven Development) Included
-
-The project follows the RED → GREEN → REFACTOR cycle:
-
-Failing tests created (RED)
-
-Minimum code implemented to pass (GREEN)
-
-Code refactored for clean architecture (REFACTOR)
-
-Includes output screenshots.
-
-📝 Test Case Table Included
-
-A detailed table for:
-✔ Student Fee Module
-✔ Error handling
-✔ Negative testing
-✔ Validation testing
+Imtiaz Ali
+BS Software Engineering
+National University of Modern Languages (NUML)
+Semester: 5th
